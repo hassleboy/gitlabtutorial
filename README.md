@@ -1,2 +1,1 @@
-# gitlabtutorial
-Using Git without affecting the master branch
+# Using Git without affecting the master branch
