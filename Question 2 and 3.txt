@@ -26,4 +26,10 @@ write as much or as little as you feel is necessary.
   e. git commit 
   f. git merge master
   g. git commit; git push origin master 
-  
+
+5. What is a technical book/blog you read recently that you enjoyed? 
+Please include a brief review of what you especially liked or didn’t like about it.
+- I recently , read about Gentoo at linuxinsider.com (https://linuxinsider.com/section/tech-blog)
+It explained the features of the variant of Gentoo linux. Simply describe if you want to tune linux distro Gentoo is the distro you might want.
+Gentoo doesnt impose standard. It was based from BSD which have similar feel when you install it. It has documentations on how to build 
+packages to different machine architecture which you can do to any machine. 
