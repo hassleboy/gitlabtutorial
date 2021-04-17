@@ -13,9 +13,9 @@
    - git checkout master
    - git checkout -b branch - Note: This will create a new branch of the file can be modified
 
-#  c. You can make changes by using commit and add option
+#  c. You can make changes by using commit(snapshot) and add option(staging)
     
-   - git add .
+   - git add **<file>**
    - git commit -m "Change that took place"
 
 #  d. To Get the changes sync to the repo use push option
