@@ -1,0 +1,1 @@
+* * * * *  /usr/local/bin/user.sh |md5sum> /var/log/current_users|stat --printf="%z\n" /var/log/current_users>/var/log/user_changes
