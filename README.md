@@ -21,6 +21,3 @@
 #  d. To Get the changes sync to the repo use push option
 
    - git push   
-
-
-    
