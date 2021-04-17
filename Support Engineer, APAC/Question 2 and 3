@@ -1,0 +1,29 @@
+2. A user is complaining that it's taking a long time to load a page on our web
+application. In your own words, write down and discuss the possible cause(s) of
+the slowness. Also describe how you would begin to troubleshoot this issue?
+Keep the following information about the environment in mind:
+● The web application is written in a modern MVC web framework.
+● Application data is stored in a relational database.
+● All components (web application, web server, database) are running on a
+single Linux box with 8GB RAM, 2 CPU cores, and SSD storage with ample
+free space.
+● You have root access to this Linux box.
+We are interested in learning about your experience with modern web
+applications, and your ability to reason about system design and architectural
+trade-offs. There are no right and wrong answers to this question. Feel free to
+write as much or as little as you feel is necessary.
+
+ a. I would ask what is the customers to do a speedtest which is typically a factor with slowness.
+ b. I would check the server load if there are alot of  processes running and memory/network/cpu utilization
+ c. I would look at logs if there are any errors from database and webapplication so we can relate it to application support
+ d. Look at error codes and check if any fix can be made for every codes that show from logs
+
+3. Study the Git commit graph shown below. What sequence of Git commands could have resulted in this commit graph?
+  a. git commit -a
+  b. git add; git commit
+  c. git branch feature-branch; 
+  d. git checkout feature-branch
+  e. git commit 
+  f. git merge master
+  g. git commit; git push origin master 
+  
